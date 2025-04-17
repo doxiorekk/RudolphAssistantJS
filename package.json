@@ -1,0 +1,30 @@
+{
+  "name": "discordjs",
+  "version": "0.0.1",
+  "description": "Discord Bot made with passion by Doxiorek",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doxiorekk/RudolphAssistantJS.git"
+  },
+  "author": "doxiorekk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/doxiorekk/RudolphAssistantJS/issues"
+  },
+  "homepage": "https://github.com/doxiorekk/RudolphAssistantJS#readme",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "consola": "^3.4.2",
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.5.0"
+  },
+  "devDependencies": {
+    "@babel/eslint-parser": "^7.27.0",
+    "@babel/plugin-syntax-import-assertions": "^7.26.0",
+    "eslint": "^9.24.0"
+  }
+}
